@@ -1,0 +1,1 @@
+# CalculatorOnPyQt5
