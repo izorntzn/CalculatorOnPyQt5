@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons_calculator/squared.svg</file>
+    <file>icons_calculator/square_root.svg</file>
+    <file>icons_calculator/plus.svg</file>
+    <file>icons_calculator/comma.svg</file>
+    <file>icons_calculator/division.svg</file>
+    <file>icons_calculator/multiply.svg</file>
+    <file>icons_calculator/minus.svg</file>
+    <file>icons_calculator/number_0.svg</file>
+    <file>icons_calculator/number_1.svg</file>
+    <file>icons_calculator/number_2.svg</file>
+    <file>icons_calculator/number_3.svg</file>
+    <file>icons_calculator/number_4.svg</file>
+    <file>icons_calculator/number_5.svg</file>
+    <file>icons_calculator/number_6.svg</file>
+    <file>icons_calculator/number_7.svg</file>
+    <file>icons_calculator/number_8.svg</file>
+    <file>icons_calculator/number_9.svg</file>
+    <file>icons_calculator/delete.svg</file>
+    <file>icons_calculator/equal.svg</file>
+  </qresource>
+</RCC>
